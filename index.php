@@ -1,11 +1,10 @@
 <html>
  <head>
- <meta name="viewport" content="width=device-width" />
  <title>LED Control</title>
  </head>
          <body>
          LED Control:
-         <form method="get" action="gpio.php">
+         <form method="get" action="index.php">
                  <input type="submit" value="ON" name="on">
                  <input type="submit" value="OFF" name="off">
          </form>
